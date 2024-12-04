@@ -1,4 +1,4 @@
 #[nvim_oxi::plugin]
-fn foo() -> i32 {
+fn share_nvim_plugin() -> i32 {
     42
 }
